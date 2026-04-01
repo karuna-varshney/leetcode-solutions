@@ -1,3 +1,12 @@
+""
+LeetCode #2392: [Problem Title] - HARD ⭐
+------------------------------------------------
+Problem: [1 line problem summary]
+Approach: Sliding Window + Two Pointers
+Time: O(n) | Space: O(1)
+Difficulty: Hard (NeetCode Top 50)
+------------------------------------------------
+"""
 import heapq
 
 class Solution(object):
